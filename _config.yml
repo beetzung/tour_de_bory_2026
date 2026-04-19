@@ -1,0 +1,49 @@
+# Jekyll — GitHub Pages (https://pages.github.com/)
+# После включения Pages: Settings → Pages → Source: Deploy from branch (main) / (root)
+
+title: "Tour de Bory 2026"
+description: "План велотуринга со статичным лагерем — Bory Tucholskie, 1–5 мая 2026"
+author: beetzung
+
+# Репозиторий проекта → сайт: https://beetzung.github.io/tour_de_bory_2026/
+url: "https://beetzung.github.io"
+baseurl: "/tour_de_bory_2026"
+
+repository: "beetzung/tour_de_bory_2026"
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# Поддерживаемая GitHub Pages тема: https://pages.github.com/themes/
+theme: minima
+
+minima:
+  skin: classic
+
+# Разрешённые на GitHub Pages плагины — см. https://github.com/github/pages-gem
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-relative-links
+  # README.md → index.html; .md в корне без --- тоже обрабатываются
+  - jekyll-readme-index
+  - jekyll-optional-front-matter
+  - jekyll-default-layout
+
+# Макет по умолчанию для страниц из Markdown (работает с jekyll-default-layout)
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "page"
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - node_modules
+  - .sass-cache
+  - .jekyll-cache
