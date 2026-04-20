@@ -11,6 +11,11 @@ baseurl: "/tour_de_bory_2026"
 
 repository: "beetzung/tour_de_bory_2026"
 
+# README с YAML ломает индекс по умолчанию; с front matter — выставляем permalink /
+# см. https://github.com/benbalter/jekyll-readme-index
+readme_index:
+  with_frontmatter: true
+
 markdown: kramdown
 kramdown:
   input: GFM
@@ -39,6 +44,10 @@ defaults:
       path: ""
     values:
       layout: "page"
+  - scope:
+      path: "README.md"
+    values:
+      title: "Tour de Bory — велотуринг со статичным лагерем"
 
 exclude:
   - Gemfile
