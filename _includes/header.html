@@ -19,10 +19,14 @@
           Полный список страниц — в README § «Содержание».
         {%- endcomment -%}
         <a class="page-link" href="{{ '/' | relative_url }}">Главная страница</a>
-        <a class="page-link" href="{% link schedule.md %}">Расписание</a>
-        <a class="page-link" href="{% link logistics.md %}">Логистика</a>
-        <a class="page-link" href="{% link menu.md %}">Меню</a>
-        <a class="page-link" href="{% link gear-personal.md %}">Личный чек-лист</a>
+        {%- capture _nav_schedule -%}{% link schedule.md %}{%- endcapture -%}
+        {%- capture _nav_logistics -%}{% link logistics.md %}{%- endcapture -%}
+        {%- capture _nav_menu -%}{% link menu.md %}{%- endcapture -%}
+        {%- capture _nav_gear -%}{% link gear-personal.md %}{%- endcapture -%}
+        <a class="page-link" href="{{ _nav_schedule | relative_url }}">Расписание</a>
+        <a class="page-link" href="{{ _nav_logistics | relative_url }}">Логистика</a>
+        <a class="page-link" href="{{ _nav_menu | relative_url }}">Меню</a>
+        <a class="page-link" href="{{ _nav_gear | relative_url }}">Личный чек-лист</a>
       </div>
     </nav>
   </div>
