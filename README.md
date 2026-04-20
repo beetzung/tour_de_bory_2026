@@ -2,7 +2,7 @@
 title: "Tour de Bory — велотуринг со статичным лагерем"
 ---
 
-<img class="site-hero-logo" src="{{ 'logo.png' | relative_url }}" alt="Tour de Bory — логотип" />
+<img class="site-hero-logo" src="logo.png" alt="Tour de Bory — логотип" />
 
 5-дневный велотуринг со стационарной базой в лесу. Регион: **Bory Tucholskie**, ~50 км к северу от **Быдгоща (Bydgoszcz)**, Польша.
 
