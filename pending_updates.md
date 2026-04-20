@@ -3,5 +3,5 @@
 _Нет открытых пунктов на 20 апреля 2026._
 
 <!--
-Последний выполненный пункт: создан [schrodingers.md](schrodingers.md) с участниками «может быть» (Женя, Лера, Лёша) и интегрированы сценарии +2/+3 в README.md, members.md, hardcoded_diff.md, menu.md, schedule.md, logistics.md, shopping-grocery.md (20 апреля 2026).
+Последний выполненный пункт: сокращён [shopping-online.md](shopping-online.md) и каскадом обновлены [gear-camp.md](gear-camp.md), [logistics.md](logistics.md), [todo.md](todo.md), [README.md](README.md) — одна канистра 30 л, минимум мусор/санитария/гриль, без освещения/мебели/палаток в онлайне, аптечка у Златы, веломеханика — только насос (20 апреля 2026).
 -->
