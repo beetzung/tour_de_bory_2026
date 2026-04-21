@@ -39,8 +39,6 @@ plugins:
   - jekyll-default-layout
 
 # Макет по умолчанию для страниц из Markdown (работает с jekyll-default-layout)
-# Permalinks: используем читаемое имя страницы (из заголовка), а не имя файла.
-# jekyll-relative-links автоматически подставит эти пути в ссылках вида [x](foo.md).
 defaults:
   - scope:
       path: ""
@@ -50,58 +48,6 @@ defaults:
       path: "README.md"
     values:
       title: "Tour de Bory — велотуринг со статичным лагерем"
-  - scope:
-      path: "members.md"
-    values:
-      permalink: "/участники/"
-  - scope:
-      path: "schedule.md"
-    values:
-      permalink: "/расписание/"
-  - scope:
-      path: "menu.md"
-    values:
-      permalink: "/меню/"
-  - scope:
-      path: "shopping-grocery.md"
-    values:
-      permalink: "/список-покупок-в-магазине/"
-  - scope:
-      path: "shopping-online.md"
-    values:
-      permalink: "/заказы-онлайн/"
-  - scope:
-      path: "expenses.md"
-    values:
-      permalink: "/общая-касса/"
-  - scope:
-      path: "gear-camp.md"
-    values:
-      permalink: "/лагерное-имущество/"
-  - scope:
-      path: "gear-personal.md"
-    values:
-      permalink: "/личный-чеклист/"
-  - scope:
-      path: "todo.md"
-    values:
-      permalink: "/to-do/"
-  - scope:
-      path: "logistics.md"
-    values:
-      permalink: "/логистика/"
-  - scope:
-      path: "schrodingers.md"
-    values:
-      permalink: "/шрёдингеры/"
-  - scope:
-      path: "hardcoded_diff.md"
-    values:
-      permalink: "/отличия-сводки/"
-  - scope:
-      path: "pending_updates.md"
-    values:
-      permalink: "/ожидающие-правки/"
 
 exclude:
   - Gemfile
