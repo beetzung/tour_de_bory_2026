@@ -47,7 +47,7 @@ defaults:
   - scope:
       path: "README.md"
     values:
-      title: "Tour de Bory — велотуринг со статичным лагерем"
+      title: "Tour de Bory 2026"
 
 exclude:
   - Gemfile
