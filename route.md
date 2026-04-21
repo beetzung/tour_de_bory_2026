@@ -6,6 +6,11 @@
 
 > **GPS в [README.md](README.md), [logistics.md](logistics.md) § 0 и [todo.md](todo.md)** сейчас соответствуют **варианту В** (запасной точке). После выбора А или Б **обновить координаты на бумаге у медика** и разослать финальный трек/GPX в чат.
 
+## Ссылки для навигации
+
+- **Д1 — маршрут велом (Komoot):** [invite-tour/2898633833](https://www.komoot.com/invite-tour/2898633833?code=vno2da-LjSg7RkQiML2dreHQ_w2WbFAi0jNfAvH9JRr0Sn5FGw&ref=wtd&share_token=argI33LTuCK3tgFfSXdXEBiQtEgQoXHsHuJQxs1jvD8PewhzLu)
+- **Лагерь А, B и C — список точек в Google Maps:** [maps.app.goo.gl/DnARacFQsH5tuPueA](https://maps.app.goo.gl/DnARacFQsH5tuPueA) (в списке **C** = вариант **В** / Zanocuj w lesie)
+
 ## Схема маршрута (карта)
 
 Черновой трек **А → Б → В** на общей карте: **А** — кэмпинг у **Sokole-Kuźnica**; **Б** — «дикость» на берегу озера; **В** — **Zanocuj w lesie** севернее. Красная линия — ручная разметка; по пути на карте видны **Parking leśny, wiata**, переправа **Przeprawa promowa / Sokole-Kuźnica**, **Nogawica PTTK** и др. Ориентир для обсуждения, финальный трек — в навигаторе/GPX.
@@ -26,6 +31,8 @@
 | **Соседи** | Возможны | Маловероятны | Зависит от загрузки поляны |
 | **Магазин ~8 км** | **Не гарантирован** — после выбора А или Б **перемерить** расстояние до sklepu (см. [logistics.md](logistics.md) § 2) | То же | Ориентир **~8 км** — [карта](https://maps.app.goo.gl/2ZYxbZ9ePUMm5T336) |
 | **Вода** | Озеро/берег + закупки | Озеро + закупки | Озеро/лес + закупки; детали при установке |
+
+Три точки **А, B и C** (C = **В**) одним списком в Google Maps: [maps.app.goo.gl/DnARacFQsH5tuPueA](https://maps.app.goo.gl/DnARacFQsH5tuPueA).
 
 ### Влияние на план
 
@@ -77,6 +84,8 @@ flowchart TD
 
 Порядок точек — **с юга на север** по широте: **А** → **Б** → **В**. Точка сбора велогруппы — **Bydgoszcz Główny** (см. [schedule.md](schedule.md)).
 
+**Готовый маршрут Д1 в Komoot** (приглашение на тур): [komoot.com/invite-tour/2898633833](https://www.komoot.com/invite-tour/2898633833?code=vno2da-LjSg7RkQiML2dreHQ_w2WbFAi0jNfAvH9JRr0Sn5FGw&ref=wtd&share_token=argI33LTuCK3tgFfSXdXEBiQtEgQoXHsHuJQxs1jvD8PewhzLu).
+
 ### Ориентиры по ногам (уточнить в Komoot / Google Maps / OsmAnd)
 
 | Нога | Откуда → куда | Ориентир | Примечание |
@@ -92,12 +101,14 @@ flowchart TD
 
 ### GPX
 
-Отдельный файл `.gpx` **не приложен** — задача: проложить трек в **Komoot** / **OsmAnd** / Google Maps и выгрузить GPX; пункт в [todo.md](todo.md).
+Трек **Д1** уже в **Komoot** — см. ссылку выше; при необходимости **экспорт GPX** из Komoot или дублирование трека в **OsmAnd**. Отдельный файл `.gpx` в репозитории не ведём. См. также задачи в [todo.md](todo.md).
 
 ---
 
 ## Ссылки
 
+- **Д1 Komoot:** [приглашение на тур](https://www.komoot.com/invite-tour/2898633833?code=vno2da-LjSg7RkQiML2dreHQ_w2WbFAi0jNfAvH9JRr0Sn5FGw&ref=wtd&share_token=argI33LTuCK3tgFfSXdXEBiQtEgQoXHsHuJQxs1jvD8PewhzLu)
+- **Лагерь А, B, C в Google Maps:** [список точек](https://maps.app.goo.gl/DnARacFQsH5tuPueA)
 - Расписание и волны Д1: [schedule.md](schedule.md)
 - Логистика, вода, мусор: [logistics.md](logistics.md)
 - Меню и костёр/гриль: [menu.md](menu.md)
