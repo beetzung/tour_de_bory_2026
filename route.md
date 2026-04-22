@@ -34,12 +34,13 @@
 
 ---
 
+
 ## Маршрут Д1
 
 <details>
   <summary>Маршрут</summary>
 
-### Схема маршрута (карта)
+### Схема маршрута 
 
 - **Д1 — маршрут велом (Komoot):** [invite-tour/2898633833](https://www.komoot.com/invite-tour/2898633833?code=vno2da-LjSg7RkQiML2dreHQ_w2WbFAi0jNfAvH9JRr0Sn5FGw&ref=wtd&share_token=argI33LTuCK3tgFfSXdXEBiQtEgQoXHsHuJQxs1jvD8PewhzLu)
 
@@ -95,6 +96,8 @@ _Coming soon_, юг от лагеря
 
 <details>
   <summary>Маршрут</summary>
+
+### Схема маршрута 
 
   - **Д5 — маршрут велом (Komoot):** [invite-tour/2898634692](https://www.komoot.com/invite-tour/2898634692?code=8d6ufu-qrP4ozMhSkXjX6DaDHhsqg1ToKqwbDWIYcb4KBEv8H0&ref=wtd&share_token=a4RbW0eFVH65LsA8pNhU7ZwB9h42GS24BRIKcg9BvJKXs3fP79)
 
