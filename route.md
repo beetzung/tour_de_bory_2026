@@ -23,7 +23,7 @@
 
 ### Влияние на план
 
-<details>
+<details markdown="1">
   <summary>Влияние на план</summary>
 
 - **Вода** ([Логистика](logistics.md) § 4): цифра «~8 км до магазина» и маршруты **Д2/Д4** актуальны для **C**; для **A/B** — пересчитать после решения.
@@ -37,7 +37,7 @@
 
 ## Маршрут Д1
 
-<details>
+<details markdown="1">
   <summary>Маршрут</summary>
 
 ### Схема маршрута 
@@ -67,7 +67,7 @@
 
 ## Маршрут Д2
 
-<details>
+<details markdown="1">
   <summary>Маршрут</summary>
   
 _Coming soon_, северовосток от лагеря
@@ -76,7 +76,7 @@ _Coming soon_, северовосток от лагеря
 
 ## Маршрут Д3
 
-<details>
+<details markdown="1">
   <summary>Маршрут</summary>
 
 _Coming soon_, север от лагеря
@@ -85,7 +85,7 @@ _Coming soon_, север от лагеря
 
 ## Маршрут Д4
 
-<details>
+<details markdown="1">
   <summary>Маршрут</summary>
   
 _Coming soon_, юг от лагеря
@@ -94,7 +94,7 @@ _Coming soon_, юг от лагеря
 
 ## Маршрут Д5
 
-<details>
+<details markdown="1">
   <summary>Маршрут</summary>
 
 ### Схема маршрута 
