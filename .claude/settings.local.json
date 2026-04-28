@@ -4,7 +4,15 @@
       "Bash(git add *)",
       "Bash(git commit -m ' *)",
       "Bash(git push *)",
-      "Bash(gh pr *)"
+      "Bash(gh pr *)",
+      "WebFetch(domain:www.komoot.com)",
+      "mcp__Claude_in_Chrome__tabs_context_mcp",
+      "mcp__Claude_in_Chrome__navigate",
+      "mcp__Claude_in_Chrome__get_page_text",
+      "mcp__Claude_in_Chrome__read_page",
+      "mcp__Claude_in_Chrome__tabs_create_mcp",
+      "Bash(cp /c/Users/sysop/Desktop/tour_de_bory_2026/assets/route-d2-map.png assets/)",
+      "Bash(cp /c/Users/sysop/Desktop/tour_de_bory_2026/assets/route-d3-map.png assets/)"
     ]
   }
 }
